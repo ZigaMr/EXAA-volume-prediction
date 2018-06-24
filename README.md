@@ -15,3 +15,6 @@ For learning and prediction I used sklearn's RandomForestRegressor and R2_score 
 As expected it performed very badly, since the dataset contains only about 260 articles and the daily volume is 
 a big number to predict accurately.
 It would be best to start with classification models to only predict increase/decrease in volume relative to day before.
+
+RESULTS:
+![Alt text](ZigaMr/EXAA-volume-prediction/R2.png?raw=true "Title")
