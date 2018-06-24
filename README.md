@@ -17,4 +17,4 @@ a big number to predict accurately.
 It would be best to start with classification models to only predict increase/decrease in volume relative to day before.
 
 RESULTS:
-![Alt text](EXAA-volume-prediction/R2.PNG?raw=true "Title")
+![Result](R2.PNG)
