@@ -17,4 +17,9 @@ a big number to predict accurately.
 It would be best to start with classification models to only predict increase/decrease in volume relative to day before.
 
 RESULTS:
+
 ![Result](R2.PNG)
+
+Most important features, in this case words:
+
+![Result](Features.PNG)
