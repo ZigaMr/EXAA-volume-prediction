@@ -6,6 +6,7 @@ import datetime
 
 
 # Configure API key authorization: app_id
+#USES MY API KEY AND ID
 aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-ID'] = 'f8351f22'
 # Configure API key authorization: app_key
 aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-Key'] = '1813bb0350110baf87dedd60ca1395ab'
